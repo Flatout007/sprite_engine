@@ -1,0 +1,14 @@
+
+#core 
+{	
+	border: 5px solid black;
+	width: 600px;
+	height: 600px;
+}
+
+body 
+{	
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
